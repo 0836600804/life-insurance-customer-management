@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NguyenDuyAn\\BaoCao\\DTO\\DTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59D1646F-F399-4090-8A67-B49699203DD7}|DTO\\DTO.csproj|c:\\users\\nguyenduyan\\baocao\\dto\\dto\\dto\\connectneo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59D1646F-F399-4090-8A67-B49699203DD7}|DTO\\DTO.csproj|solutionrelative:dto\\connectneo4j.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConnectNeo4j.cs",
+              "DocumentMoniker": "C:\\Users\\NguyenDuyAn\\BaoCao\\DTO\\DTO\\DTO\\ConnectNeo4j.cs",
+              "RelativeDocumentMoniker": "DTO\\ConnectNeo4j.cs",
+              "ToolTip": "C:\\Users\\NguyenDuyAn\\BaoCao\\DTO\\DTO\\DTO\\ConnectNeo4j.cs",
+              "RelativeToolTip": "DTO\\ConnectNeo4j.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T01:01:59.305Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
