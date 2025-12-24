@@ -1,28 +1,28 @@
 # Life Insurance Customer Management System
 
 ## Overview
-This project is a **Life Insurance Customer Management System** developed to manage customer information for life insurance services.  
-The application is built using **WinForms** for the user interface and **Neo4j** as the database to manage relationship-based data.
+This project is a **Life Insurance Customer Management System** designed to manage customer information efficiently using a **graph database approach**.  
+The system follows the **MVC architecture** and leverages **Neo4j** for handling complex relationships between customers, insurance policies, and related entities.
 
 ## Features
 - Manage life insurance customer information
-- Create, update, and delete customer records
-- Graph-based data storage using Neo4j
-- User-friendly desktop interface built with WinForms
+- Store and query data using a graph-based model
+- RESTful APIs for system integration
+- Structured MVC architecture for maintainability
 
 ## Technologies
-- C# WinForms
 - Neo4j
-- .NET Framework
-- Cypher Query Language
+- Python
+- RESTful API
+- MVC Architecture
 
 ## Data Model
-The system uses **Neo4j graph database** to represent relationships between:
+The system uses Neo4j to model relationships between:
 - Customers
 - Insurance Policies
 - Contracts and related entities
 
-This allows efficient querying of complex relationships in the insurance domain.
+This approach improves flexibility and performance when querying relationship-based data.
 
 ## Installation & Setup
 1. Clone the repository:
