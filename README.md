@@ -1,31 +1,30 @@
 # Life Insurance Customer Management System
 
 ## Overview
-This project is a customer management system for the life insurance domain, focusing on organizing customer information and supporting data analysis. The system is designed to store, manage, and analyze customer-related data for business insights.
+This project is a **Life Insurance Customer Management System** developed to manage customer information for life insurance services.  
+The application is built using **WinForms** for the user interface and **Neo4j** as the database to manage relationship-based data.
 
-## Objectives
-- Manage customer information in the life insurance domain
-- Support data analysis and reporting
-- Provide a foundation for data-driven decision making
+## Features
+- Manage life insurance customer information
+- Create, update, and delete customer records
+- Graph-based data storage using Neo4j
+- User-friendly desktop interface built with WinForms
 
 ## Technologies
-- Database: Neo4j
-- Backend: Python (RESTful API, MVC architecture)
-- Data Analysis & Visualization: Power BI
-- Tools: Git, GitHub
+- C# WinForms
+- Neo4j
+- .NET Framework
+- Cypher Query Language
 
-## Key Features
-- Customer data modeling using a graph database (Neo4j)
-- Data cleaning and preprocessing
-- Business trend analysis and visualization using Power BI dashboards
+## Data Model
+The system uses **Neo4j graph database** to represent relationships between:
+- Customers
+- Insurance Policies
+- Contracts and related entities
 
-## Data Analysis
-- Analyzed customer and revenue data
-- Built dashboards to identify trends and patterns
-- Generated reports to support business insights
+This allows efficient querying of complex relationships in the insurance domain.
 
-## Screenshots
-(Add Power BI dashboard screenshots here)
-
-## Author
-Data Analyst Intern Candidate
+## Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/0836600804/life-insurance-customer-management.git
