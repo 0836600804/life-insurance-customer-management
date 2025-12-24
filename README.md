@@ -1,30 +1,31 @@
 # Life Insurance Customer Management System
 
 ## Overview
-This project is a **Life Insurance Customer Management System** designed to manage customer information efficiently using a **graph database approach**.  
-The system follows the **MVC architecture** and leverages **Neo4j** for handling complex relationships between customers, insurance policies, and related entities.
+This project is a customer management system for the life insurance domain, focusing on organizing customer information and supporting data analysis. The system is designed to store, manage, and analyze customer-related data for business insights.
 
-## Features
-- Manage life insurance customer information
-- Store and query data using a graph-based model
-- RESTful APIs for system integration
-- Structured MVC architecture for maintainability
+## Objectives
+- Manage customer information in the life insurance domain
+- Support data analysis and reporting
+- Provide a foundation for data-driven decision making
 
 ## Technologies
-- Neo4j
-- Python
-- RESTful API
-- MVC Architecture
+- Database: Neo4j
+- Backend: Python (RESTful API, MVC architecture)
+- Data Analysis & Visualization: Power BI
+- Tools: Git, GitHub
 
-## Data Model
-The system uses Neo4j to model relationships between:
-- Customers
-- Insurance Policies
-- Contracts and related entities
+## Key Features
+- Customer data modeling using a graph database (Neo4j)
+- Data cleaning and preprocessing
+- Business trend analysis and visualization using Power BI dashboards
 
-This approach improves flexibility and performance when querying relationship-based data.
+## Data Analysis
+- Analyzed customer and revenue data
+- Built dashboards to identify trends and patterns
+- Generated reports to support business insights
 
-## Installation & Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/0836600804/life-insurance-customer-management.git
+## Screenshots
+(Add Power BI dashboard screenshots here)
+
+## Author
+Data Analyst Intern Candidate
